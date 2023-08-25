@@ -1,0 +1,27 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #1d2342;
+}
+
+h1 {
+    color: #FFFF;
+}
+
+#sketchbox {
+    border: 2px solid black;
+    width: 600px;
+}
+
+.row {
+    display: flex;
+    
+  }
+  
+  .cell {
+    background-color: white;
+   
+  }
+  
